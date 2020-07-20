@@ -1,0 +1,78 @@
+
+[
+{
+id: 1,
+name: "Galaxy note5",
+price: "200$",
+bland: "Samsung?",
+profile: "https://rupp-ite.s3.ap-southeast-1.amazonaws.com/acer.jpg"
+},
+{
+id: 2,
+name: "One Plus",
+price: "100$",
+bland: "One PLus?",
+profile: "https://rupp-ite.s3.ap-southeast-1.amazonaws.com/dell.jpg"
+},
+{
+name: "Iphone X",
+price: "300$",
+bland: "Apple?",
+profile: "https://rupp-ite.s3.ap-southeast-1.amazonaws.com/vaio.jpg"
+},
+{
+  "bland" : "Samsung",
+  "id" : "10107050",
+  "name" : "Galaxy S10",
+  "price" : "900$",
+  "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage15?alt=media&token=192501e0-1f76-40cb-8a8f-77fc84682cbe"
+},
+{
+  "bland" : "Dell",
+  "id" : "10005090",
+  "name" : "Dell XPS 15 ",
+  "price" : "1500$",
+  "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage16?alt=media&token=05ea6875-5764-4859-93f4-11fd58400294"
+},
+{
+ "bland" : "Apple",
+ "id" : "10105100",
+ "name" : "Iphone X ",
+ "price" : "900$",
+ "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage16?alt=media&token=05ea6875-5764-4859-93f4-11fd58400294"
+},
+{
+ "bland" : "DELL",
+ "id" : "10105788",
+ "name" : "DELL ALEIN X",
+ "price" : "1300$",
+ "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage19?alt=media&token=38661c9c-af3f-4781-8d33-e393f5dd9d0c"
+},
+{
+  "bland" : "Samsung",
+  "id" : "10107050",
+  "name" : "Galaxy S10",
+  "price" : "900$",
+  "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage15?alt=media&token=192501e0-1f76-40cb-8a8f-77fc84682cbe"
+}, {
+  "bland" : "Samsung",
+  "id" : "10107099",
+  "name" : "Galaxy note 20",
+  "price" : "900$",
+  "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage17?alt=media&token=86683617-8cdc-4da0-b683-ec05dd3e66c0"
+},
+{
+ "bland" : "Miky",
+ "id" : "10205478",
+ "name" : "Blue Mild",
+ "price" : "10$",
+ "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage20?alt=media&token=06630b23-00d8-4866-9093-5b7bdc5e29bc"
+},
+{
+  "bland" : "MSI",
+  "id" : "10205588",
+  "name" : "MSI GS65",
+  "price" : "1000$",
+  "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage18?alt=media&token=8332da09-ff1b-40d4-8668-af13714ba096"
+}
+]
