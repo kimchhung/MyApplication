@@ -1,0 +1,162 @@
+{
+  "mock_data" : [ {
+    "bar_code" : "1193531071",
+    "item_price" : "$2.28",
+    "item_profile" : "https://mozilla.com/quisque/ut/erat/curabitur.xml?amet=amet&justo=consectetuer&morbi=adipiscing&ut=elit&odio=proin&cras=risus&mi=praesent&pede=lectus&malesuada=vestibulum&in=quam&imperdiet=sapien&et=varius&commodo=ut&vulputate=blandit&justo=non&in=interdum&blandit=in&ultrices=ante&enim=vestibulum&lorem=ante&ipsum=ipsum&dolor=primis&sit=in",
+    "itemname" : "Onions - Spanish"
+  }, {
+    "bar_code" : "6937590156",
+    "item_price" : "$0.15",
+    "item_profile" : "https://disqus.com/vulputate/nonummy/maecenas/tincidunt/lacus/at/velit.html?quis=ut&lectus=massa&suspendisse=quis&potenti=augue&in=luctus&eleifend=tincidunt&quam=nulla&a=mollis&odio=molestie&in=lorem&hac=quisque&habitasse=ut&platea=erat&dictumst=curabitur&maecenas=gravida&ut=nisi&massa=at&quis=nibh&augue=in&luctus=hac&tincidunt=habitasse&nulla=platea&mollis=dictumst&molestie=aliquam&lorem=augue&quisque=quam&ut=sollicitudin&erat=vitae",
+    "itemname" : "Shrimp - 16/20, Iqf, Shell On"
+  }, {
+    "bar_code" : "5318889123",
+    "item_price" : "$2.38",
+    "item_profile" : "https://arstechnica.com/eget/tempus/vel/pede/morbi/porttitor/lorem.js?condimentum=vestibulum&curabitur=sit&in=amet&libero=cursus&ut=id&massa=turpis&volutpat=integer&convallis=aliquet&morbi=massa&odio=id&odio=lobortis&elementum=convallis&eu=tortor&interdum=risus&eu=dapibus&tincidunt=augue&in=vel&leo=accumsan&maecenas=tellus&pulvinar=nisi&lobortis=eu&est=orci&phasellus=mauris&sit=lacinia&amet=sapien&erat=quis&nulla=libero&tempus=nullam&vivamus=sit&in=amet&felis=turpis&eu=elementum&sapien=ligula",
+    "itemname" : "Yogurt - Cherry, 175 Gr"
+  }, {
+    "bar_code" : "8182102588",
+    "item_price" : "$5.04",
+    "item_profile" : "https://feedburner.com/eleifend.json?volutpat=ligula&convallis=vehicula&morbi=consequat&odio=morbi&odio=a&elementum=ipsum&eu=integer&interdum=a&eu=nibh&tincidunt=in&in=quis&leo=justo&maecenas=maecenas",
+    "itemname" : "Appetizer - Veg Assortment"
+  }, {
+    "bar_code" : "0538803991",
+    "item_price" : "$6.86",
+    "item_profile" : "http://phoca.cz/erat/tortor.aspx?nunc=nulla&donec=integer&quis=pede&orci=justo&eget=lacinia&orci=eget&vehicula=tincidunt&condimentum=eget&curabitur=tempus&in=vel&libero=pede&ut=morbi&massa=porttitor&volutpat=lorem&convallis=id&morbi=ligula&odio=suspendisse&odio=ornare&elementum=consequat&eu=lectus&interdum=in&eu=est&tincidunt=risus&in=auctor&leo=sed&maecenas=tristique&pulvinar=in&lobortis=tempus&est=sit&phasellus=amet&sit=sem&amet=fusce&erat=consequat&nulla=nulla&tempus=nisl&vivamus=nunc&in=nisl&felis=duis&eu=bibendum&sapien=felis&cursus=sed&vestibulum=interdum&proin=venenatis&eu=turpis&mi=enim&nulla=blandit&ac=mi&enim=in&in=porttitor&tempor=pede&turpis=justo&nec=eu&euismod=massa&scelerisque=donec&quam=dapibus&turpis=duis&adipiscing=at&lorem=velit&vitae=eu&mattis=est&nibh=congue&ligula=elementum&nec=in&sem=hac&duis=habitasse&aliquam=platea&convallis=dictumst&nunc=morbi&proin=vestibulum&at=velit&turpis=id&a=pretium&pede=iaculis&posuere=diam&nonummy=erat&integer=fermentum",
+    "itemname" : "Beef Cheek Fresh"
+  }, {
+    "bar_code" : "2296306691",
+    "item_price" : "$5.51",
+    "item_profile" : "https://apache.org/elit/sodales/scelerisque.xml?tempus=mauris&sit=enim&amet=leo&sem=rhoncus&fusce=sed&consequat=vestibulum&nulla=sit&nisl=amet&nunc=cursus&nisl=id&duis=turpis&bibendum=integer&felis=aliquet&sed=massa&interdum=id&venenatis=lobortis&turpis=convallis&enim=tortor&blandit=risus&mi=dapibus&in=augue&porttitor=vel&pede=accumsan&justo=tellus&eu=nisi&massa=eu&donec=orci&dapibus=mauris&duis=lacinia&at=sapien&velit=quis&eu=libero&est=nullam&congue=sit&elementum=amet&in=turpis&hac=elementum&habitasse=ligula&platea=vehicula&dictumst=consequat&morbi=morbi&vestibulum=a&velit=ipsum&id=integer&pretium=a&iaculis=nibh&diam=in&erat=quis&fermentum=justo&justo=maecenas&nec=rhoncus&condimentum=aliquam&neque=lacus&sapien=morbi&placerat=quis&ante=tortor&nulla=id&justo=nulla&aliquam=ultrices&quis=aliquet&turpis=maecenas&eget=leo&elit=odio&sodales=condimentum&scelerisque=id&mauris=luctus&sit=nec&amet=molestie&eros=sed&suspendisse=justo&accumsan=pellentesque&tortor=viverra&quis=pede&turpis=ac&sed=diam&ante=cras&vivamus=pellentesque&tortor=volutpat&duis=dui&mattis=maecenas&egestas=tristique&metus=est&aenean=et&fermentum=tempus&donec=semper&ut=est&mauris=quam&eget=pharetra&massa=magna&tempor=ac&convallis=consequat&nulla=metus&neque=sapien&libero=ut",
+    "itemname" : "Roe - White Fish"
+  }, {
+    "bar_code" : "5629876856",
+    "item_price" : "$3.70",
+    "item_profile" : "http://storify.com/aliquam/lacus/morbi/quis/tortor/id/nulla.xml?eros=ipsum&elementum=integer&pellentesque=a&quisque=nibh&porta=in&volutpat=quis&erat=justo&quisque=maecenas&erat=rhoncus&eros=aliquam&viverra=lacus&eget=morbi&congue=quis&eget=tortor&semper=id&rutrum=nulla&nulla=ultrices&nunc=aliquet&purus=maecenas&phasellus=leo&in=odio&felis=condimentum&donec=id&semper=luctus&sapien=nec&a=molestie&libero=sed&nam=justo&dui=pellentesque&proin=viverra&leo=pede&odio=ac&porttitor=diam&id=cras&consequat=pellentesque&in=volutpat&consequat=dui&ut=maecenas&nulla=tristique&sed=est&accumsan=et&felis=tempus&ut=semper&at=est&dolor=quam&quis=pharetra&odio=magna&consequat=ac&varius=consequat&integer=metus&ac=sapien&leo=ut&pellentesque=nunc&ultrices=vestibulum&mattis=ante&odio=ipsum&donec=primis&vitae=in&nisi=faucibus&nam=orci&ultrices=luctus&libero=et&non=ultrices&mattis=posuere&pulvinar=cubilia&nulla=curae&pede=mauris&ullamcorper=viverra&augue=diam&a=vitae&suscipit=quam&nulla=suspendisse&elit=potenti&ac=nullam&nulla=porttitor&sed=lacus&vel=at&enim=turpis&sit=donec&amet=posuere&nunc=metus&viverra=vitae&dapibus=ipsum&nulla=aliquam&suscipit=non&ligula=mauris&in=morbi&lacus=non&curabitur=lectus&at=aliquam&ipsum=sit&ac=amet&tellus=diam&semper=in&interdum=magna",
+    "itemname" : "Cheese - Bakers Cream Cheese"
+  }, {
+    "bar_code" : "3440364070",
+    "item_price" : "$0.44",
+    "item_profile" : "http://themeforest.net/lobortis.jsp?felis=primis&sed=in&lacus=faucibus&morbi=orci&sem=luctus&mauris=et&laoreet=ultrices&ut=posuere&rhoncus=cubilia&aliquet=curae&pulvinar=duis&sed=faucibus&nisl=accumsan&nunc=odio&rhoncus=curabitur&dui=convallis&vel=duis&sem=consequat&sed=dui&sagittis=nec&nam=nisi&congue=volutpat&risus=eleifend&semper=donec&porta=ut&volutpat=dolor&quam=morbi&pede=vel&lobortis=lectus&ligula=in&sit=quam&amet=fringilla&eleifend=rhoncus&pede=mauris&libero=enim&quis=leo&orci=rhoncus&nullam=sed&molestie=vestibulum&nibh=sit&in=amet",
+    "itemname" : "Wine - Touraine Azay - Le - Rideau"
+  }, {
+    "bar_code" : "7899054273",
+    "item_price" : "$0.71",
+    "item_profile" : "http://hibu.com/suscipit/ligula/in/lacus/curabitur.json?curae=convallis&mauris=duis&viverra=consequat&diam=dui&vitae=nec&quam=nisi",
+    "itemname" : "Soup - Cream Of Broccoli"
+  }, {
+    "bar_code" : "2326388550",
+    "item_price" : "$0.45",
+    "item_profile" : "https://sourceforge.net/interdum/mauris/ullamcorper/purus/sit.jpg?adipiscing=cursus&elit=id&proin=turpis&interdum=integer&mauris=aliquet&non=massa&ligula=id&pellentesque=lobortis&ultrices=convallis&phasellus=tortor&id=risus&sapien=dapibus&in=augue&sapien=vel&iaculis=accumsan&congue=tellus&vivamus=nisi&metus=eu&arcu=orci&adipiscing=mauris&molestie=lacinia&hendrerit=sapien&at=quis&vulputate=libero&vitae=nullam&nisl=sit&aenean=amet&lectus=turpis&pellentesque=elementum&eget=ligula&nunc=vehicula&donec=consequat&quis=morbi&orci=a&eget=ipsum&orci=integer&vehicula=a&condimentum=nibh&curabitur=in&in=quis&libero=justo&ut=maecenas&massa=rhoncus&volutpat=aliquam&convallis=lacus&morbi=morbi&odio=quis&odio=tortor&elementum=id&eu=nulla&interdum=ultrices&eu=aliquet",
+    "itemname" : "Sole - Dover, Whole, Fresh"
+  } ],
+  "products" : {
+    "10005090" : {
+      "bland" : "Dell",
+      "id" : "10005090",
+      "name" : "Dell XPS 15 ",
+      "price" : "1500$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage16?alt=media&token=05ea6875-5764-4859-93f4-11fd58400294"
+    },
+    "10101010" : {
+      "bland" : "honda",
+      "id" : "10101010",
+      "name" : "car",
+      "price" : "90000$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage23?alt=media&token=d9bff430-b895-43a1-87ef-5cda5393a74b"
+    },
+    "10105100" : {
+      "bland" : "Apple",
+      "id" : "10105100",
+      "name" : "Iphone X ",
+      "price" : "900$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage16?alt=media&token=05ea6875-5764-4859-93f4-11fd58400294"
+    },
+    "10105788" : {
+      "bland" : "DELL",
+      "id" : "10105788",
+      "name" : "DELL ALEIN X",
+      "price" : "1300$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage19?alt=media&token=38661c9c-af3f-4781-8d33-e393f5dd9d0c"
+    },
+    "10107050" : {
+      "bland" : "Samsung",
+      "id" : "10107050",
+      "name" : "Galaxy S10",
+      "price" : "900$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage15?alt=media&token=192501e0-1f76-40cb-8a8f-77fc84682cbe"
+    },
+    "10107099" : {
+      "bland" : "Samsung",
+      "id" : "10107099",
+      "name" : "Galaxy note 20",
+      "price" : "900$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage17?alt=media&token=86683617-8cdc-4da0-b683-ec05dd3e66c0"
+    },
+    "10205478" : {
+      "bland" : "Miky",
+      "id" : "10205478",
+      "name" : "Blue Mild",
+      "price" : "10$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage20?alt=media&token=06630b23-00d8-4866-9093-5b7bdc5e29bc"
+    },
+    "10205588" : {
+      "bland" : "MSI",
+      "id" : "10205588",
+      "name" : "MSI GS65",
+      "price" : "1000$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage18?alt=media&token=8332da09-ff1b-40d4-8668-af13714ba096"
+    },
+    "89898989" : {
+      "bland" : "Demo",
+      "id" : "89898989",
+      "name" : "Demo",
+      "price" : "9099$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage22?alt=media&token=487923d8-4f48-49dd-92a9-e03830428221"
+    },
+    "90876543" : {
+      "bland" : "Apple",
+      "id" : "90876543",
+      "name" : "Ipad SS",
+      "price" : "1399$",
+      "profile" : "https://firebasestorage.googleapis.com/v0/b/myproduct-f12b6.appspot.com/o/ImageFolder%2Fimage21?alt=media&token=1b2e0992-7f94-4147-a6f2-fb98c669fb21"
+    }
+  },
+  "users" : {
+    "abc" : {
+      "email" : "acb@gmail.com",
+      "name" : "abc_full",
+      "password" : "123123",
+      "phoneNo" : "4444444",
+      "username" : "abc"
+    },
+    "demo" : {
+      "email" : "demo@gmail.com",
+      "name" : "DemoFull",
+      "password" : "123123123",
+      "phoneNo" : "01050999",
+      "username" : "demo"
+    },
+    "demo2" : {
+      "email" : "demo2@gmail.com",
+      "name" : "Demo222",
+      "password" : "123123123",
+      "phoneNo" : "123123",
+      "username" : "demo2"
+    },
+    "kimchhung" : {
+      "email" : "pechkimchhung@gmail.com",
+      "name" : "pechkimchhung",
+      "password" : "123123123",
+      "phoneNo" : "010502473",
+      "username" : "kimchhung"
+    },
+    "puro" : {
+      "email" : "puro@gmail.com",
+      "name" : "puroto",
+      "password" : "123123123",
+      "phoneNo" : "123123123",
+      "username" : "puro"
+    }
+  }
+}
